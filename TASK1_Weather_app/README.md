@@ -35,11 +35,11 @@ DESCRIPTION: A simple weather application that allows users to check the current
 
  4.Create an API Key from OpenWeatherMap:
  
-     i.  Go to OpenWeatherMap.
-    ii.  Sign up or log in to your account.
-   iii.  Navigate to the "API keys" section of your account.
-    iv.  Generate a new API key.
-     v.  Copy the generated API key.
+     • Go to OpenWeatherMap.
+     • Sign up or log in to your account.
+     •  Navigate to the "API keys" section of your account.
+     •  Generate a new API key.
+     •  Copy the generated API key.
 
      **NOTE**:Please note that your API key will be generated and activated within *0 - 2 hrs* after you request it from OpenWeatherMap.
 
