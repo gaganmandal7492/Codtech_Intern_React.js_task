@@ -22,16 +22,18 @@ DESCRIPTION: A simple weather application that allows users to check the current
 ## Setup
 
  1.Clone the repository
- 
-   --> git clone https://github.com/gaganmandal7492/Codtech_Intern_React.js_task.git
-
+ ```bash
+   git clone https://github.com/gaganmandal7492/Codtech_Intern_React.js_task.git
+ ```
  2.Navigate to the project directory:
-
-   --> cd TASK1_Weather_app
+ ```bash
+    cd TASK1_Weather_app
+ ```
 
  3.Install dependencies:
-
-   --> npm install
+  ```bash
+       npm install
+  ```
 
  4.Create an API Key from OpenWeatherMap:
  
@@ -45,9 +47,9 @@ DESCRIPTION: A simple weather application that allows users to check the current
               you request it from OpenWeatherMap.
 
  5.Create a .env file in the root directory and add your API key:
-
-   --> VITE_API_ID = "your_api_key_here"
-
+```bash
+    VITE_API_ID = "your_api_key_here"
+```
  6.Start the development server:
 
   --> npm start or npm run dev
