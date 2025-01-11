@@ -41,7 +41,8 @@ DESCRIPTION: A simple weather application that allows users to check the current
      •  Generate a new API key.
      •  Copy the generated API key.
 
-     **NOTE**:Please note that your API key will be generated and activated within *0 - 2 hrs* after you request it from OpenWeatherMap.
+     **NOTE**:Please note that your API key will be generated and activated within *0 - 2 hrs* after
+              you request it from OpenWeatherMap.
 
  5.Create a .env file in the root directory and add your API key:
 
