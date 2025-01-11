@@ -51,12 +51,12 @@ DESCRIPTION: A simple weather application that allows users to check the current
     VITE_API_ID = "your_api_key_here"
 ```
  6.Start the development server:
+```bash
+   npm run dev
+```
+ 7.Open your browser and visit http://localhost:5173 OR follow the access URL provided by your IDE to see the app in action.
 
-  --> npm start or npm run dev
 
- 7.Open your browser and visit http://localhost:3000 OR follow the access URL provided by your IDE to see the app in action.
+ 8. output/screenshots/video
+    ![Screenshot 2025-01-11 160514](https://github.com/user-attachments/assets/1ce634cd-e353-4a42-b74b-a82427525635)
 
-
- 8. output/screenshots
-    
-    (https://github.com/user-attachments/assets/7b15580a-0886-462b-b0b6-944e7ca0ac08)
