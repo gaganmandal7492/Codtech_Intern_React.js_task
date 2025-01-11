@@ -56,7 +56,6 @@ DESCRIPTION: A simple weather application that allows users to check the current
 ```
  7.Open your browser and visit http://localhost:5173 OR follow the access URL provided by your IDE to see the app in action.
 
-
- 8. output/screenshots/video
+8.Output/screenshots
     ![Screenshot 2025-01-11 160514](https://github.com/user-attachments/assets/1ce634cd-e353-4a42-b74b-a82427525635)
 
