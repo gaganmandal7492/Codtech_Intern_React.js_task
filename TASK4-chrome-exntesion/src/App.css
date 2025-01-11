@@ -1,0 +1,17 @@
+.container {
+  border: 5px groove;
+  width: 500px;
+}
+
+dt:before {
+  content: "";
+  display: block;
+}
+dt, dd {
+  display: inline;
+}
+dd {
+  float: right;
+}
+
+
